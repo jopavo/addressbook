@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
+
 public class AddressBook {
 
     private Contact[] friends; // An array of Contacts - each stores info for one friend
